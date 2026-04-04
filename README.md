@@ -1,56 +1,44 @@
-# Cafe_Sales_Report - Python, Excel.
+# Python - Data Cleaning project.
 
 
 
 # Table of Contents
 
 - [Objective](#Objective)
-- [Business Questions](#Business-Questions)
 - [Goal](#Goal)
 - [Tools](#Tools)
-- [DataCleaning](#Data-Cleaning)
-- [Processing](#Processing)
-- [DashboardDevelopment](#Dashboard-Development)
-- [Insights](#Insights)
-- [Recommendations](#Recommendations)
-- [ActionPlan](#Action-Plan)
+- [DataCleaning](#Screenshots)
 
 
 
-## Objective
 
-
-
-## Business Questions
-
-
-
-## Goal
+## Goal - The goal is to have a ready to use data for analysis, machine learning algorithms. The process of cleaned data consist of no-duplicates, fill missing values with (mean, median,mode), standardized data, ensure date, categorical and numeric columns remain as it should. Data quality check passed, to maintain data integrity.
 
 
 
 ## Tools
 
+|Tools | Purpose| 
+|---|---|
+|Python (Pandas, Numpy, Openpyxl) | Cleaning, Xlsx Data to CSV |
 
 
-## DataCleaning
+## Screenshots
+
+![image](Images/py1.jpeg)
+
+
+![image](Images/py2.jpeg)
+
+
+![image](Images/py3.jpeg)
+
+
+![image](Images/py4.jpeg)
+
+
+![image](Images/py5.jpeg)
 
 
 
-## Processing
 
-
-
-## DashboardDevelopment
-
-
-
-## Insights
-
-
-
-## Recommendations
-
-
-
-## ActionPlan
