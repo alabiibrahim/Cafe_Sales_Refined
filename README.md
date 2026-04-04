@@ -1,10 +1,4 @@
-# Python - Data Cleaning project.
-
-# Table of Contents
-
-- [Goal](#Goal)
-- [Tools](#Tools)
-- [Screenshots](#Screenshots)
+# Python - Data Cleaning.
 
 
 ## Goal 
